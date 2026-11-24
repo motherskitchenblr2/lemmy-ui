@@ -66,7 +66,7 @@
     "highlight.js": "^11.10.0",
     "history": "^5.3.0",
     "html-to-text": "^10.0.0",
-    "i18next": "^23.14.0",
+    "i18next": "^26.3.4",
     "idna-uts46-hx": "^6.1.7",
     "inferno": "^9.1.0",
     "inferno-create-element": "^9.1.0",
